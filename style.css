@@ -1,28 +1,35 @@
-#main{
-  text-align: center; margin: 20px;
+#main {
+  text-align: center; 
+  margin: 20px;
 }
-#title{
-  font-size: 2em; margin: 20px 0;
-}
-#img-div{
+
+#title {
+  font-size: 2em; 
   margin: 20px 0;
 }
-#image{
+
+#img-div {
+  margin: 20px 0;
+}
+
+#image {
   max-width: 100%;
   height: auto;
   display: block;
   margin:0 auto;
 }
-#img-caption{
+
+#img-caption {
   font-style: italic;
   margin-top: 10px;
 }
-#tribute-info{
+
+#tribute-info {
   margin: 20px 0;
   font-size: 1.2em;
 }
-#tribute-link{
+
+#tribute-link {
   color: blue;
   text-decoration: none;
 }
-
