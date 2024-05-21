@@ -1,10 +1,10 @@
 #main {
-  text-align: center; 
+  text-align: center;
   margin: 20px;
 }
 
 #title {
-  font-size: 2em; 
+  font-size: 2em;
   margin: 20px 0;
 }
 
@@ -16,7 +16,7 @@
   max-width: 100%;
   height: auto;
   display: block;
-  margin:0 auto;
+  margin:auto;
 }
 
 #img-caption {
