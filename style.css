@@ -5,11 +5,11 @@
 
 #title {
   font-size: 2em;
-  margin: 20px 0;
+  margin-bottom: 20px;
 }
 
 #img-div {
-  margin: 20px 0;
+  margin-bottom: 20px;
 }
 
 #image {
@@ -25,11 +25,10 @@
 }
 
 #tribute-info {
-  margin: 20px 0;
-  font-size: 1.2em;
+  margin-bottom: 20px;
 }
 
 #tribute-link {
-  color: blue;
-  text-decoration: none;
+  display: block;
+  margin-top: 20px;
 }
